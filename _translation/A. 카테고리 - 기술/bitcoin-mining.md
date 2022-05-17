@@ -1,8 +1,3 @@
-# bitcoin mining
+# 비트코인 채굴
 
-One of the fundamental questions many people have about Bitcoin revolves around the origin of the coins themselves. Questions about its value, security and history all eventually lead to a pair of questions: Where do bitcoin come from and what is bitcoin mining?
-
-“PROOF OF WORK”
-If you’ve heard of Bitcoin, there’s a chance you may have also seen the phrase “ proof of work ” thrown around. This process is at the heart of Bitcoin’s ability to work as intended and is what allows the decentralized network of computers running Bitcoin to stay in sync with each other. In fact, this invention is what really separates Bitcoin from any prior attempts at creating digital money.
-
-While traditional money is created through (central) banks, bitcoin are “mined” by Bitcoin miners: network participants that are competing to be the one computer that is allowed to record all of the recent transactions. If your computer can win this competition, then you’ll get to award yourself some bitcoin as a reward for your efforts.
+많은 사람들이 비트코인에 대해 가지고 있는 근본적인 질문 중 하나는 동전 자체의 기원에 관한 것이다. 그 가치, 보안 및 역사에 대한 질문은 결국 다음과 같은 두 가지 질문으로 이어집니다. 비트코인은 어디에서 왔고 비트코인 채굴은 무엇인가?
