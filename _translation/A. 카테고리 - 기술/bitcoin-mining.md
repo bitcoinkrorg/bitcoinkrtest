@@ -1,4 +1,6 @@
 # bitcoin mining
+비트코인 채굴
+
 One of the fundamental questions many people have about Bitcoin revolves around the origin of the coins themselves. Questions about its value, security and history all eventually lead to a pair of questions: Where do bitcoin come from and what is bitcoin mining?
 
 “PROOF OF WORK”
